@@ -1,4 +1,4 @@
-# logisticRegressionMatlab
+# Logistic Regression in Matlab
 
 Project 4 Machine learning
 Binomial logistic regression with multi-dimensional input
